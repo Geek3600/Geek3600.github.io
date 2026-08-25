@@ -15,8 +15,8 @@ name                     : &name "Huayang Yuan(袁华阳)"
 description              : &description "袁华阳的学术主页"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://geek3600.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/Academic-Page" # the subpath of your site, e.g. "/blog"
-repository               : "Geek3600/Academic-Page"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "Geek3600/Geek3600.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "硕士生，研究方向为软硬件协同设计"
   location         : "Shanghai, China"
-  employer         : "Red Brick University"
+  employer         : "Fudan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hyyuan25@m.fudan.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -38,10 +38,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-9001-3691"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
