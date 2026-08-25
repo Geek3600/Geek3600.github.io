@@ -23,7 +23,7 @@ repository               : "Geek3600/Geek3600.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/zhegnjianzhao.jpg"
+  avatar           : "zhegnjianzhao.jpg"
   name             : "Huayang Yuan(袁华阳)"
   pronouns         : # example: "she/her"  
   bio              : "Master Student of ICS Lab@FDU"
