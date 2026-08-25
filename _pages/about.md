@@ -7,8 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome！
+Welcome！My name is Huayang Yuan(袁华阳). I’m a Master’s student in the School of Computer Science at Fudan University(复旦大学). I earned my bachelor’s degree from Xidian University(西安电子科技大学) in 2025.
 
+My research interests lie in AI hardware acceleration architecture, hardware-software co-design, and dataflow architectures, with a special focus on hardware-software co-design. I am convinced that cohesive hardware-software co-design is central to unlocking the full potential of AI accelerators and translating algorithmic advances into real-world performance gains.
+
+I’m always curious and eager to learn. I enjoy digging into new problems, rethinking common solutions, and improving myself little by little.
+Outside of research, I stay active with gym workouts and running. I believe keeping fit helps me stay sharp and do better research.
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
