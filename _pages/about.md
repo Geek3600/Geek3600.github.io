@@ -13,6 +13,6 @@ My research interests include **AI hardware accelerator**, **Hardware-Software C
 
 Publications
 ======
-1. "TileCache: Hardware-Software Co-design for Tile-wise Selective Cache Reuse in Video Diffusion Transformers."
-   **Huayang Yuan**, Coauthor Name.
+1. **"TileCache: Hardware-Software Co-design for Tile-wise Selective Cache Reuse in Video Diffusion Transformers."**<br>
+   **Huayang Yuan**, Coauthor Name.<br>
    *The 44th IEEE International Conference on Computer Design (ICCD 2026)*.
