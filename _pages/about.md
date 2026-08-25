@@ -14,5 +14,5 @@ My research interests include **AI hardware accelerator**, **Hardware-Software C
 Publications
 ======
 1. TileCache: Hardware-Software Co-design for Tile-wise Selective Cache Reuse in Video Diffusion Transformers.<br>
-   **Huayang Yuan**, Boyin Jin, Guowei Zhu, Yunkai Zhu, Liming Deng, Wei Cao and Fan Zhang.<br>
+   **Huayang Yuan**, Boyin Jin, Guowei Zhu, Yunkai Zhu, Liming Deng, Wei Cao, Fan Zhang.<br>
    *The 44th IEEE International Conference on Computer Design (ICCD 2026)*.
