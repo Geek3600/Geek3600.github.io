@@ -24,9 +24,10 @@ repository               : "Geek3600/Geek3600.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "袁华阳"
+  name             : "Huayang Yuan(袁华阳)"
   pronouns         : # example: "she/her"  
-  bio              : "硕士生，研究方向为软硬件协同设计"
+  bio              : "Master
+                      研究方向为软硬件协同设计"
   location         : "Shanghai, China"
   employer         : "Fudan University"
   uri              : # URL
@@ -41,6 +42,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-9001-3691"
   semantic         : # URL
   ssrn             : # URL
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -50,13 +52,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Geek3600"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
