@@ -1,3 +1,6 @@
+git add .
+git commit -m "Update personal academic profile"
+git push origin master
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
