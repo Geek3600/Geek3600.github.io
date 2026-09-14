@@ -15,3 +15,5 @@ Publications
 1. TileCache: Hardware-Software Co-design for Tile-wise Selective Cache Reuse in Video Diffusion Transformers.<br>
    **Huayang Yuan**, Boyin Jin, Guowei Zhu, Yunkai Zhu, Liming Deng, Wei Cao, Fan Zhang.<br>
    *The 44th IEEE International Conference on Computer Design (ICCD 2026)*.
+2. DaQ-DiT: A Divide-and-Quant Acceleration Framework for INT4-Dominant Diffusion Transformer Inference.<br>Boyin Jin, **Huayang Yuan**, Guowei Zhu, Yunkai Zhu, Liming Deng, Xuegong Zhou, Wei Cao and Fan Zhang.<br>
+*The 44th IEEE International Conference on Computer Design (ICCD 2026)*.
